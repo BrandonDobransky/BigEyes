@@ -1,4 +1,8 @@
 # Eyes Project  
-## Eyes track mouse movement  
-
-![Screen Shot 2023-05-09 at 5 11 51 PM](https://github.com/BrandonDobransky/BigEyes/assets/127439948/7cc62c8d-1c6d-4fa0-9fa4-218f45f4efc4)
+In this assignment, wherever your mouse moves, the eyes follow. A fun way to include javascript and css within a webpage to create this interactive page. 
+#
+To run this, you can clone the repository to your machine and open in a browser or coding program. 
+#
+Some future improvments to this exercise could include onClick changes, for example, change eye color, background colors, etc. 
+#
+For licensing information, see the License file within this repository - Licensed with MIT. 
